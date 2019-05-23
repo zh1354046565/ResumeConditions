@@ -1,0 +1,14 @@
+{
+ "StatusCode": 1,
+ "ResultData": {
+  "DeliverInfoList": [{
+   "Message": "候选人通过 北极星招聘 投递了 热控工程师",
+   "RecordDate": "2018-06-21 10:53:26"
+  }],
+  "Pageing": {
+   "TotalPage": 1,
+   "TotalCount": 1
+  }
+ },
+ "StatusMsg": "操作成功"
+}

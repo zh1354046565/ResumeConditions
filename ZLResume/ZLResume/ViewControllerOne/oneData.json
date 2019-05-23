@@ -1,0 +1,121 @@
+{
+        "StatusCode": 1,
+        "ResultData": {
+            "DetailInfo": {
+                "OperaResumeID": 14301572,
+                "ResumeID": 0,
+                "ListType": 1,
+                "ResumeNumber": "B6CD4CB7C95B2BBA",
+                "DataUpdateDate": "2018-03-28 21:11:41",
+                "DisposeState": 3,
+                "ResumeState": "应聘简历--不合适",
+                "UserPhone": "13877222504",
+                "UserEmail": "lizeqian9797@163.com",
+                "JobName": "电气工程师",
+                "OperationDate": "2018-08-15 11:20:08",
+                "IsShow": true,
+                "DownSurplus": 19025,
+                "IsDeliver": false,
+                "UserName": "lizeqian",
+                "UserSex": 1,
+                "HeadImg": "http://common.bjx.com.cn//UploadFile/PCFile/ResumeFile/20180306/2018030621303156731846.jpg",
+                "IsCheckEmail": true,
+                "IsCheckPhone": true,
+                "JobEducation": "本科",
+                "WorkYear": "十年",
+                "DateBirth": 37,
+                "DateYear": "1981年5月",
+                "Nation": "汉族",
+                "PoliticsStatus": "团员",
+                "MarriageState": "已婚",
+                "Address": "广西-防城港",
+                "HomePlace": "广西-贺州",
+                "IsHighUser": false,
+                "SelfAssessment": "本人自信乐观、待人友善、平易近人；工作认真负责、能吃苦耐劳；为\n人坦诚、责任心强；善于沟通、人际关系和睦，具有良好的团队\n精神，诚实守信；有较强的组织、协调能力。",
+                "BegPositionIndustry": "工程,工程,电气,电气",
+                "BegPositionPost": "项目工程师,电气工程师/技术员,自动化仪表工程师,安装工程师,调试工程师",
+                "BegPositionCity": "广西,广东,四川,云南,海外",
+                "BegPositionPay": "面议",
+                "HopeArriveDate": "面谈",
+                "BegPositionInPlaceDate": "我正在主动找工作可以快速到岗",
+                "SkillDescribe": "1、熟练运用CAD软件及Word、Excel等办公软件。\n2、熟练掌握企业、建筑行业电气安装标准规范，能独立完成厂房、建筑行业电气、照明、火警系统安装、调试及移交。\n3、有较强的沟通协调能力及团队合作精神。",
+                "AttachePath": "",
+                "UpIrank": 2,
+                "UpOperaResumeID": 10511030,
+                "UpResumeNumber": "BFAE50FC3A6E8588",
+                "NtIrank": 4,
+                "NtOperaResumeID": 13333111,
+                "NtResumeNumber": "E1E856DEA5244C55"
+            },
+            "lstExperience": [
+                              {
+                                  "StartDate": "2013年06月",
+                                  "EndDate": "至今",
+                                  "CompanyName": "中广核工程公司广西防城港项目部",
+                                  "Months": "5年3个月",
+                                  "IndustryName": "电气、仪表、照明设备安装",
+                                  "ScaleName": "约500人以上",
+                                  "CompanyNature": "国有企业",
+                                  "DepartmentName": "电仪安装队BOP组",
+                                  "JobName": "工程师",
+                                  "WorkPay": 9500,
+                                  "JobDetail": "1、2013-06至2014-06，完成AA、AB厂房变压器及电气、火灾自动报警系统安装及移交。\n2、2013-06至2014-04，完成官山辽淡水厂10KV系统7.27KM架空线安装及送电。\n3、2014-03至2015-10，完成EM、EC1厂房变压器及电气、火警、照明系统安装调试及移交。\n4、2015-08至2016-09，完成AG/EL厂房电气、火警、照明系统安装调试及移交；YA/YB，VA/ZC，AX厂房电气系统尾项处理。\n5、2016-10-至今，华龙一号常规岛、泵房、廊道及BOP厂房防雷接地系统安装。"
+                              },
+                              {
+                                  "StartDate": "2007年07月",
+                                  "EndDate": "2013年01月",
+                                  "CompanyName": "广西壮族自治区冶金建设公司电气工程公司",
+                                  "Months": "5年6个月",
+                                  "IndustryName": "电气、仪表设备安装维护",
+                                  "ScaleName": "约150至500人",
+                                  "CompanyNature": "国有企业",
+                                  "DepartmentName": "技术部",
+                                  "JobName": "技术主管",
+                                  "WorkPay": 7000,
+                                  "JobDetail": "2007.7-2007.9\t华润水泥（平南）有限公司纯低温余热发电项目\t余热发电各电气、仪表设备安装、调试。\t\n2007.10-2008.1\t柳钢35KV变电站项目\t变电站高压柜安装、调试及其各设备单体试验。\n2008.4 -2008.5\t柳钢中板厂火焰切割机项目\t柳钢中板厂火焰切割机电气、仪表设备安装及调试。\n2008.6 -2009.1\t桂林兴安、湖南石门海螺水泥18000KW余热发电项目电气、仪表设备安装与调试。\t\n2009.4 -2009.9\t北流海螺水泥二线生产线电产线项目电气、仪表设备安装与调试。\n2009.10 -2010.1\t百色田东糖厂项目\t百色田东糖厂项目各电气、仪表设备安装与调试\t\n2010.3-2010.7\t柳钢烧结1# 360项目\t烧结1# 360各电气仪表设备安装与调试\t\n2010．8-2012．8\t柳钢烧结1#、2# 360维保项目\t烧结1#、2#360电气、仪表设备日常维护及成本控制"
+                              }
+                              ],
+            "lstEducation": [
+                             {
+                                 "StartDate": "2003年09月",
+                                 "EndDate": "2007年07月",
+                                 "SchoolName": "广西工学院",
+                                 "MajorName": "测控技术与仪器",
+                                 "JobEducation": "本科",
+                                 "MajorDescribe": "我具有扎实的专业基础，文字的表达能力；具有电气、仪器仪表设备维护检测能力；并有较强的外语应用能力及自学能力。主修课程有：自动控制原理、传感技术、微型计算机原理与应用、电路基础、模拟电子技术基础、数字电子技术基础、信号与系统等等。能从事电气安装工程、电子、仪表相关领域的维护、生产、应用、管理等工作。"
+                             }
+                             ],
+            "lstTrain": [
+                         {
+                             "StartDate": "2013年01月",
+                             "EndDate": "2013年01月",
+                             "SchoolName": "柳州市人才培训中心",
+                             "TrainCourse": "电工实操及理论基础",
+                             "TrainAddress": "",
+                             "GetCertificate": "电工证",
+                             "TrainDescirbe": "电工实操、理论及故障排除培训。"
+                         }
+                         ],
+            "lstJobLanguage": [
+                               {
+                                   "JobLanguage": "英语",
+                                   "LanguageGrade": "四级"
+                               }
+                               ],
+            "lstCertificate": [
+                               {
+                                   "CertificateName": "二级建造师(机电工程)",
+                                   "sYear": "2012年",
+                                   "IssueUnit": "",
+                                   "ImgPath": ""
+                               },
+                               {
+                                   "CertificateName": "助理工程师",
+                                   "sYear": "2008年",
+                                   "IssueUnit": "广西冶金建设公司电气工程公司",
+                                   "ImgPath": ""
+                               }
+                               ]
+        },
+        "StatusMsg": "查询成功"
+    }

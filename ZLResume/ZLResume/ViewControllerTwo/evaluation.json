@@ -1,0 +1,82 @@
+{
+  "StatusCode": 1,
+  "ResultData": {
+    "lstEvalate": [
+      {
+        "Irank": 1,
+        "EvalID": 169,
+        "HRImg": "https://static.bjx.com.cn/EnterpriseNew/HRHead/4638/2018062117091711_36897.png",
+        "HRName": "张小三01",
+        "EvalContent": "可约面试1",
+        "EvalLable": "标签1,标签2,标签3",
+        "RecordDate": "2018-09-19 17:23:52",
+        "OperationSource": 9
+      },
+      {
+        "Irank": 2,
+        "EvalID": 168,
+        "HRImg": "https://www.bjx.com.cn",
+        "HRName": "用户名",
+        "EvalContent": "可约面试",
+        "EvalLable": "标签11,标签22,标签33",
+        "RecordDate": "2018-09-15 14:57:57",
+        "OperationSource": 501
+      },
+      {
+        "Irank": 3,
+        "EvalID": 167,
+        "HRImg": "https://static.bjx.com.cn/EnterpriseNew/HRHead/4638/2018062117091711_36897.png",
+        "HRName": "张小三02",
+        "EvalContent": "可约面试2",
+        "EvalLable": "标签4,标签5,标签6",
+        "RecordDate": "2018-09-15 14:54:36",
+        "OperationSource": 501
+      },
+      {
+        "Irank": 4,
+        "EvalID": 160,
+        "HRImg": "https://static.bjx.com.cn/EnterpriseNew/HRHead/4638/2018062117091711_36897.png",
+        "HRName": "张小三03",
+        "EvalContent": "可约面试3",
+        "EvalLable": "标签7,标签8,标签9",
+        "RecordDate": "2018-09-07 12:28:21",
+        "OperationSource": 501
+      },
+      {
+        "Irank": 5,
+        "EvalID": 159,
+        "HRImg": "https://static.bjx.com.cn/EnterpriseNew/HRHead/4638/2018062117091711_36897.png",
+        "HRName": "张小三04",
+        "EvalContent": "可约面试4",
+        "EvalLable": "标签10,标签11,标签12",
+        "RecordDate": "2018-09-06 17:23:28",
+        "OperationSource": 501
+      },
+      {
+        "Irank": 6,
+        "EvalID": 158,
+        "HRImg": "https://static.bjx.com.cn/EnterpriseNew/HRHead/4638/2018062117091711_36897.png",
+        "HRName": "张小三05",
+        "EvalContent": "可约面试5",
+        "EvalLable": "标签13,标签14,标签15",
+        "RecordDate": "2018-09-06 17:22:19",
+        "OperationSource": 501
+      },
+      {
+        "Irank": 7,
+        "EvalID": 157,
+        "HRImg": "https://static.bjx.com.cn/EnterpriseNew/HRHead/4638/2018062117091711_36897.png",
+        "HRName": "张小三06",
+        "EvalContent": "可约面试6",
+        "EvalLable": "标签16,标签17,标签18",
+        "RecordDate": "2018-09-06 16:37:00",
+        "OperationSource": 9
+      }
+    ],
+    "Pageing": {
+      "TotalPage": 1,
+      "TotalCount": 7
+    }
+  },
+  "StatusMsg": "操作成功"
+}

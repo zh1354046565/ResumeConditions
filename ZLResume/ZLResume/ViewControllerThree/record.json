@@ -1,0 +1,96 @@
+{
+  "StatusCode": 1,
+  "ResultData": {
+    "OperaInfoList": [
+      {
+        "Message": "转发简历至893942284@qq.com",
+        "IsInnerView": 1,
+        "RecordDate": "2018-09-12 18:06:39"
+      },
+      {
+        "Message": "简历转发后被邮箱<893942284@qq.com(王东)>查看01",
+        "IsInnerView": 0,
+        "RecordDate": "2018-09-12 18:00:00"
+      },
+      {
+      "Message": "简历转发后被邮箱<893942284@qq.com(王东)>查看02",
+      "IsInnerView": 0,
+      "RecordDate": "2018-09-12 18:00:00"
+      },
+      {
+      "Message": "简历转发后被邮箱<893942284@qq.com(王东)>查看03",
+      "IsInnerView": 0,
+      "RecordDate": "2018-09-12 18:00:00"
+      },
+      {
+      "Message": "简历转发后被邮箱<893942284@qq.com(王东)>查看04",
+      "IsInnerView": 0,
+      "RecordDate": "2018-09-12 18:00:00"
+      },
+      {
+      "Message": "简历转发后被邮箱<893942284@qq.com(王东)>查看05",
+      "IsInnerView": 0,
+      "RecordDate": "2018-09-12 18:00:00"
+      },
+      {
+      "Message": "简历转发后被邮箱<893942284@qq.com(王东)>查看06",
+      "IsInnerView": 0,
+      "RecordDate": "2018-09-12 18:00:00"
+      },
+      {
+      "Message": "简历转发后被邮箱<893942284@qq.com(王东)>查看07",
+      "IsInnerView": 0,
+      "RecordDate": "2018-09-12 18:00:00"
+      },
+      {
+      "Message": "简历转发后被邮箱<893942284@qq.com(王东)>查看08",
+      "IsInnerView": 0,
+      "RecordDate": "2018-09-12 18:00:00"
+      },
+      {
+      "Message": "简历转发后被邮箱<893942284@qq.com(王东)>查看09",
+      "IsInnerView": 0,
+      "RecordDate": "2018-09-12 18:00:00"
+      },
+      {
+      "Message": "简历转发后被邮箱<893942284@qq.com(王东)>查看10",
+      "IsInnerView": 0,
+      "RecordDate": "2018-09-12 18:00:00"
+      },
+      {
+      "Message": "简历转发后被邮箱<893942284@qq.com(王东)>查看11",
+      "IsInnerView": 0,
+      "RecordDate": "2018-09-12 18:00:00"
+      },
+      {
+      "Message": "简历转发后被邮箱<893942284@qq.com(王东)>查看12",
+      "IsInnerView": 0,
+      "RecordDate": "2018-09-12 18:00:00"
+      },
+      {
+      "Message": "简历转发后被邮箱<893942284@qq.com(王东)>查看13",
+      "IsInnerView": 0,
+      "RecordDate": "2018-09-12 18:00:00"
+      },
+      {
+      "Message": "简历转发后被邮箱<893942284@qq.com(王东)>查看14",
+      "IsInnerView": 0,
+      "RecordDate": "2018-09-12 18:00:00"
+      }
+    ],
+      "InterviewInfo": [
+      {
+        "AppleDate": "2018年5月24日 15:00",
+        "HRName":"施远",
+        "MobilePhone":"13888888888",
+        "Address":"北京市朝阳区建国路15号院甲1号华文国际传媒大厦A座201",
+        "Remark":"请携带毕业证书等相关内容准时参加面试"
+      }
+      ],
+    "Pageing": {
+      "TotalPage": 1,
+      "TotalCount": 2
+    }
+  },
+  "StatusMsg": "操作成功"
+}
